@@ -1,0 +1,56 @@
+09/01/2023
+ 
+WELCOME TO FP20 ANALYTICS CHALLENGES GROUP
+ 
+Hi Data Family,
+
+Finally, we all sorted out and in place FP20 Analytics Challenge 1 “San Martins Stores January Sales 2021” is here.
+
+Timeline
+The challenge will run from 09/01/2023 to 29/01/2023, closing time is 11:59pm UK time on 29/01/2023.
+
+Tools
+Reports can be presented in Excel and or Power BI only.
+
+THE BRIEF
+
+*IMPORTANT*
+Requirement - Report Developer Role
+San Martins’ CEO Mr. Kevin Pastor-Franco is expecting a report with no more than 2 pages with a simple navigation menu.
+ 
+1.    Page1 should be an Executive overview of the January 2021 Sales with weekly KPI on Sales, Cost and Profit accompanied with other relevant visuals.
+ 
+2.    Page 2 should be dedicated to a Geographical view of San Martins Store operations; a Json Map of Spain is included in the datasets. You, as a report developer, must highly his 2 best performing Sales Agents and information about what product these Sales Agents sell more and where (Location). San Martins CEO would also like to know his worth performing Sale Agent.
+
+*Reports is limited to 2 pages and no other restrictions, or techniques are imposed. Feel free to use all the techniques at your disposal – tooltips, drill throughs, page navigations, etc.
+
+The Resources
+There are 2 Datasets, one in the English Language and one in the Spanish Language. Both datasets contain the same information.
+1.     A Power BI File – modelled.
+2.     An Excel spreadsheet
+3.     A Json Map of Spain including the Canary Islands.
+4.     PDF with the Intro and Brief.
+
+*Dataset*
+https://lnkd.in/eUEEsi4q
+
+Submission of entries
+
+*IMPORTANT*
+Please enter the 2 pages of your report as screenshots in a LinkedIn post with the following wording.
+
+“I am participating in FP20 Analytics Challenge 1” please see screenshots of my report pages.
+
+Enter a small summary about you report.
+
+Use the hashtag #FP20Analytics and #FP20SanMartinsStoresReporting and tag @Federico Pastor.
+
+Do the same in the Community Group in LinkedIn.
+*If you wan to post your report in novyPro – only PBI Files - , please see link to video of how to do it.
+
+NovyPro:
+https://www.novypro.com/
+Instruction Video:
+https://lnkd.in/ejgsYNZh
+ 
+PRIZES TO BE ANNOUNCED VERY SOON – YOU WILL BE SURPRISED!!

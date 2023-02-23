@@ -1,0 +1,13 @@
+europes_power_sector_in_2020
+2000 to 2018 data is from EUROSTAT (nrg_bal_peh); 2019+2020 are estimates from Ember/Agora
+Sources:
+2000-2018:
+Eurostat (nrg_bal_peh and nrg_bal_c)
+AG-Energiebilanzen (for Germany)
+2019-2020
+"Entso-E (Actual Total Load, Aggregated Generation Per Type, Actual Generation Output Per Unit Cross Border Physical Flow)"
+Ember's monthly dataset
+A-G Energiebilanzen (for Germany)
+Eurostat (nrg_cb_pem)
+"National TSO and statistical agencies (RTE, CBS, Drax electric inisights, REE, Finnish Energy, Energieopwek, APG, Terna)"
+Methodology:

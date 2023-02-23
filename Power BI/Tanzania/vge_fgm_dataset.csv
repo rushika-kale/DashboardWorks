@@ -1,0 +1,852 @@
+id,date_of_arrival_at_safe_house,age_on_arrival_in_years,do_you_go_to_school,region,district,religion,type_of_case,health_status_healthy,health_status_sti,health_status_uti,health_status_pregnant,health_status_other_health_issue,immediate_needs_on_arrival_clothes,immediate_needs_on_arrival_underwear,immediate_needs_on_arrival_shoes,immediate_needs_on_arrival_counselling,immediate_needs_on_arrival_other,who_brought_her_to_the_safe_house,suggestion_from_social_welfare_officer
+1,04-02-2020,14,"yes, used to go",Mara,Serengeti,christian,other,1,0,0,0,0,1,1,0,0,1,government leader,reconciliation with parents
+2,20-11-2019,18,yes,Mara,Butiam,muslim,fgm,1,0,0,0,0,1,1,0,1,0,school teacher,short term protection
+3,09-12-2018,11,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,0,1,1,1,0,police,short term protection
+4,29-12-2018,14,yes,Mara,Serengeti,christian,child marriage,0,0,1,0,0,1,0,1,1,0,police,short term protection
+5,21-12-2018,12,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,0,0,1,1,0,police,short term protection
+6,22-12-2018,13,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,0,1,1,0,police,short term protection
+7,26-12-2018,12,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,0,1,1,1,0,police,short term protection
+8,21-12-2018,13,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+9,23-12-2018,11,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,0,1,0,police,short term protection
+10,05-12-2018,13,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,0,1,1,0,police,short term protection
+11,25-12-2018,11,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,0,1,1,0,police,short term protection
+12,28-12-2018,14,yes,Mara,Serengeti,christian,child marriage,0,1,1,0,0,1,1,1,1,0,police,short term protection
+13,29-12-2018,12,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,0,1,1,1,0,police,short term protection
+14,25-12-2018,13,yes,Mara,Serengeti,christian,child marriage,0,1,1,0,0,1,1,0,1,0,police,short term protection
+15,10-12-2018,12,yes,Mara,Serengeti,christian,child marriage,0,0,1,0,0,1,1,1,1,0,police,short term protection
+16,23-12-2018,12,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+17,24-12-2018,11,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,0,0,1,0,police,short term protection
+18,11-12-2018,14,yes,Mara,Serengeti,christian,child marriage,0,0,1,0,0,1,0,1,1,0,police,short term protection
+19,05-12-2018,14,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,0,1,0,police,short term protection
+20,12-12-2018,12,yes,Mara,Serengeti,christian,violence,0,1,1,0,0,0,1,1,1,0,police,short term protection
+21,14-12-2018,13,yes,Mara,Serengeti,christian,child marriage,0,1,1,0,0,1,1,1,1,0,police,short term protection
+22,06-12-2018,11,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+23,09-12-2018,13,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,0,1,0,police,short term protection
+24,12-12-2018,14,yes,Mara,Serengeti,christian,child marriage,0,1,1,0,0,1,1,1,1,0,police,short term protection
+25,20-12-2018,12,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,0,0,1,0,police,short term protection
+26,10-12-2018,13,yes,Mara,Serengeti,christian,fgm,NA,NA,NA,NA,NA,1,0,0,1,0,police,short term protection
+27,15-12-2018,13,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+28,12-12-2018,13,yes,Mara,Serengeti,christian,child marriage,0,1,1,0,0,1,1,0,1,0,police,short term protection
+29,16-12-2018,13,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,0,1,0,police,short term protection
+30,21-12-2018,12,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,0,1,0,police,short term protection
+31,13-12-2018,13,yes,Mara,Serengeti,christian,child marriage,0,1,1,0,0,1,1,1,1,0,police,short term protection
+32,08-12-2018,14,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,0,0,1,0,police,short term protection
+33,04-12-2018,12,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,0,1,1,0,police,short term protection
+34,27-12-2018,11,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,0,0,1,0,police,short term protection
+35,23-12-2018,11,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+36,12-12-2018,13,yes,Mara,Serengeti,christian,child marriage,0,0,1,0,0,1,1,0,1,0,police,short term protection
+37,13-12-2018,12,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,0,1,0,police,short term protection
+38,08-12-2017,12,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+39,28-12-2018,35,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,community member,short term protection
+40,03-12-2019,14,"yes, used to go",Mara,Butiam,christian,violence,1,0,0,0,0,0,0,0,1,0,volunteer,prosecution
+41,03-12-2019,14,"no, never went",Mara,Bunda,christian,violence,1,0,0,0,0,1,0,0,0,0,police,long term protection
+42,05-02-2020,11,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,0,0,0,0,volunteer,prosecution
+43,20-02-2020,16,"no, never went",Mara,Butiam,christian,rape,0,1,0,0,0,1,0,0,0,0,police,prosecution
+44,02-12-2017,13,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,0,0,0,0,volunteer,prosecution
+45,03-12-2019,14,NA,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,NA
+46,06-02-2020,17,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,0,0,0,0,volunteer,short term protection
+47,03-01-2020,17,yes,Mara,Butiam,christian,child marriage,1,0,0,0,0,1,0,0,0,0,police,long term protection
+48,03-12-2019,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,0,0,0,0,volunteer,long term protection
+49,06-02-2020,19,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,0,0,1,0,volunteer,NA
+50,11-04-2019,10,yes,Mara,Rorya,christian,fgm,1,0,0,0,0,1,1,1,1,0,family member,long term protection
+51,10-10-2019,12,"no, never went",Mara,Bunda,christian,violence,1,0,0,0,0,1,1,1,1,0,police,long term protection
+52,03-12-2019,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,0,0,0,0,volunteer,long term protection
+53,03-12-2019,15,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,0,0,0,0,volunteer,long term protection
+54,07-12-2017,14,yes,Mara,Serengeti,christian,child marriage,1,0,0,0,0,1,1,1,1,0,volunteer,long term protection
+55,06-12-2017,12,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,long term protection
+56,17-07-2019,9,yes,Mara,Butiam,christian,rape,0,1,1,0,0,1,1,1,1,0,police,long term protection
+57,18-12-2017,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,0,1,0,0,0,volunteer,long term protection
+58,03-11-2019,15,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,0,0,0,0,volunteer,long term protection
+59,14-06-2019,17,yes,Mara,Serengeti,christian,child marriage,1,0,0,0,0,0,1,0,0,0,came herself,short term protection
+60,06-12-2017,12,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,long term protection
+61,05-12-2017,14,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,0,0,0,0,volunteer,long term protection
+62,14-09-2017,10,yes,Mara,Rorya,christian,child marriage,1,0,0,0,0,1,1,1,1,0,community member,long term protection
+63,05-12-2017,12,yes,Mara,Rorya,christian,fgm,1,0,0,0,0,0,0,1,0,0,community member,long term protection
+64,17-12-2019,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,0,0,0,0,volunteer,long term protection
+65,02-02-2018,16,"yes, used to go",Mara,Butiam,christian,child marriage,1,0,0,0,0,1,1,1,1,0,volunteer,long term protection
+66,06-06-2018,8,yes,Mara,Rorya,christian,fgm,1,0,0,0,0,1,1,1,1,0,religious leader,long term protection
+67,04-12-2018,15,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,0,0,0,0,volunteer,long term protection
+68,18-02-2020,13,"yes, used to go",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,long term protection
+69,18-12-2017,13,"yes, used to go",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,long term protection
+70,16-02-2018,15,yes,Mara,Butiam,christian,child marriage,1,0,0,0,0,1,0,0,0,0,police,long term protection
+71,01-12-2018,13,yes,Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+72,15-11-2018,13,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+73,03-12-2019,16,yes,Mara,Rorya,christian,fgm,0,1,1,1,1,1,1,1,1,1,volunteer,prosecution
+74,03-12-2019,13,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+75,03-12-2019,18,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+76,21-12-2019,12,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+77,11-11-2017,15,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+78,07-12-2018,14,yes,Mara,Serengeti,christian,fgm,NA,NA,NA,NA,NA,1,1,1,1,0,police,short term protection
+79,14-05-2018,NA,"no, never went",Arusha,Ngorongoro,christian,fgm,1,0,0,0,0,0,0,0,1,0,religious leader,short term protection
+80,20-11-2017,NA,"no, never went",Mara,Rorya,christian,fgm,1,0,0,0,0,0,0,0,1,0,volunteer,short term protection
+81,12-11-2019,NA,"no, never went",Mara,Serengeti,christian,child marriage,1,0,0,0,0,1,0,0,1,0,family member,short term protection
+82,10-07-2019,15,"no, never went",Mara,Serengeti,christian,child marriage,0,0,0,0,1,1,1,1,1,0,police,short term protection
+83,10-01-2018,12,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+84,02-01-2020,16,"no, never went",Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+85,10-11-2018,13,yes,Mara,Serengeti,christian,fgm,0,0,0,0,1,1,1,1,1,0,police,reconciliation with parents
+86,23-02-2019,16,"yes, used to go",Mara,Serengeti,christian,fgm,0,0,0,0,1,1,1,1,1,0,religious leader,reconciliation with parents
+87,16-01-2019,14,"yes, used to go",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,came herself,reconciliation with parents
+88,17-12-2019,13,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,reconciliation with parents
+89,04-02-2020,14,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,social welfare officer,reconciliation with parents
+90,20-01-2020,16,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,reconciliation with parents
+91,03-10-2019,10,yes,Mara,Serengeti,christian,violence,0,0,1,0,0,1,1,1,1,0,police,reconciliation with parents
+92,03-03-2019,5,yes,Mara,Serengeti,christian,violence,0,0,1,0,0,1,1,1,1,0,police,long term protection
+93,16-01-2019,NA,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,0,0,0,1,0,came herself,short term protection
+94,20-11-2017,NA,NA,Mara,Rorya,christian,child marriage,1,0,0,0,0,1,1,1,1,0,social welfare officer,short term protection
+95,10-01-2018,NA,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+96,16-11-2018,14,"no, never went",Mara,Serengeti,christian,child marriage,1,0,0,0,0,1,1,1,1,0,police,short term protection
+97,02-01-2020,16,"no, never went",Mara,Serengeti,christian,child marriage,1,0,0,0,0,1,1,1,1,0,police,short term protection
+98,10-11-2019,17,"no, never went",Mara,Serengeti,christian,child marriage,0,0,1,0,0,1,1,1,1,0,police,NA
+99,04-11-2019,11,yes,Mara,Serengeti,christian,violence,1,0,0,0,0,1,1,1,1,0,police,short term protection
+100,15-05-2019,5,yes,Mara,Serengeti,christian,violence,1,0,0,0,0,1,1,1,1,0,police,short term protection
+101,01-11-2017,16,yes,Arusha,Ngorongoro,christian,fgm,0,0,1,0,0,1,1,1,1,0,religious leader,short term protection
+102,29-03-2019,14,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+103,02-07-2017,16,yes,Mara,Serengeti,christian,child marriage,NA,NA,NA,NA,NA,1,1,1,1,0,police,short term protection
+104,01-01-2020,17,"no, never went",Mara,Serengeti,christian,child marriage,NA,NA,NA,NA,NA,1,1,1,1,0,government leader,short term protection
+105,04-10-2019,14,yes,Mara,Serengeti,christian,child marriage,0,0,1,0,0,1,1,1,1,0,police,short term protection
+106,12-10-2017,15,yes,Mara,Serengeti,christian,fgm,NA,NA,NA,NA,NA,1,1,1,1,0,volunteer,short term protection
+107,13-10-2018,13,yes,Mara,Serengeti,christian,fgm,NA,NA,NA,NA,NA,1,1,1,1,0,police,short term protection
+108,12-11-2018,12,yes,Mara,Serengeti,christian,fgm,NA,NA,NA,NA,NA,1,1,1,1,0,community member,short term protection
+109,10-01-2020,5,"no, never went",Mara,Serengeti,christian,violence,NA,NA,NA,NA,NA,1,1,1,1,0,police,short term protection
+110,25-09-2018,15,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+111,16-09-2018,17,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,0,0,0,police,reconciliation with parents
+112,21-09-2018,14,yes,Mara,Serengeti,paganism,fgm,0,0,1,0,0,1,1,0,1,0,police,reconciliation with parents
+113,20-11-2018,13,yes,Mara,Serengeti,NA,fgm,1,0,0,0,0,NA,NA,NA,NA,NA,police,short term protection
+114,13-02-2020,8,yes,Mara,Serengeti,christian,fgm,0,0,0,0,1,1,1,0,0,0,police,short term protection
+115,30-12-2019,13,yes,Mara,Serengeti,NA,child marriage,1,0,0,0,0,1,1,0,0,0,police,short term protection
+116,04-12-2018,11,yes,Mara,Serengeti,NA,fgm,0,0,1,0,0,1,1,0,0,0,volunteer,short term protection
+117,25-11-2017,9,yes,Mara,Serengeti,NA,fgm,0,0,1,0,0,1,1,0,0,0,police,short term protection
+118,17-06-2019,16,yes,Mara,Serengeti,NA,child marriage,0,0,1,0,0,1,1,0,0,0,police,short term protection
+119,05-09-2019,24,"no, never went",Mara,Serengeti,christian,violence,0,0,0,0,1,0,0,0,1,0,police,short term protection
+120,20-11-2017,10,"no, never went",Mara,Rorya,NA,other,0,0,1,0,0,1,1,0,1,0,police,short term protection
+121,25-11-2017,7,yes,Mara,Butiam,christian,other,0,0,1,0,0,1,1,0,0,0,police,short term protection
+122,25-11-2017,8,yes,Mara,Rorya,paganism,other,0,0,1,0,0,1,1,0,0,0,police,short term protection
+123,25-11-2017,5,"no, never went",Mara,Rorya,NA,violence,0,0,1,0,0,1,1,1,0,0,police,short term protection
+124,25-11-2017,10,yes,Mara,Rorya,christian,other,0,0,1,0,0,1,1,0,0,0,police,short term protection
+125,20-11-2017,11,yes,Mara,Rorya,NA,fgm,0,0,1,0,0,1,1,0,0,0,police,short term protection
+126,20-11-2017,14,yes,Mara,Rorya,christian,fgm,0,0,1,0,0,1,1,0,0,0,police,short term protection
+127,20-11-2017,7,yes,Mara,Rorya,NA,other,1,0,0,0,0,1,0,1,0,0,police,short term protection
+128,20-11-2017,13,yes,Mara,Rorya,paganism,fgm,0,0,1,0,0,1,1,1,0,0,police,short term protection
+129,20-11-2017,12,yes,Mara,Rorya,christian,fgm,0,0,1,0,0,1,1,0,0,0,police,short term protection
+130,20-11-2017,10,yes,Mara,Rorya,christian,fgm,0,0,1,0,0,1,1,0,0,0,police,short term protection
+131,17-11-2017,12,"no, never went",Mara,Rorya,christian,child marriage,1,0,0,0,0,1,1,0,0,0,police,short term protection
+132,25-09-2018,9,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,0,1,0,police,short term protection
+133,29-09-2018,11,"yes, used to go",Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+134,05-11-2018,14,"yes, used to go",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+135,16-09-2018,12,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+136,03-10-2018,14,"yes, used to go",Mara,Bunda,christian,other,1,0,0,0,0,1,1,1,1,0,police,short term protection
+137,25-09-2018,10,"yes, used to go",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+138,25-09-2018,13,"yes, used to go",Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+139,10-11-2017,15,"no, never went",Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+140,29-10-2019,25,"yes, used to go",Dodoma,Mpwapwa,christian,violence,0,0,0,0,1,1,1,1,1,0,police,short term protection
+141,11-11-2017,16,yes,Manyara,Babati,christian,child marriage,1,0,0,0,0,1,1,1,1,0,police,short term protection
+142,14-09-2018,15,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+143,14-09-2018,14,yes,Mara,Serengeti,christian,fgm,0,0,1,0,1,0,1,1,1,0,police,short term protection
+144,14-09-2018,16,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+145,01-06-2018,6,yes,Mara,Bunda,christian,other,1,0,0,0,0,1,1,1,1,0,police,short term protection
+146,16-06-2018,16,yes,Arusha,Ngorongoro,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+147,18-06-2018,10,yes,Mwanza,Ilemela,muslim,other,1,0,0,0,0,1,1,1,1,0,police,short term protection
+148,18-06-2018,14,"no, never went",Mara,Serengeti,christian,child marriage,1,0,0,0,0,1,1,1,1,0,police,short term protection
+149,20-11-2017,4,"no, never went",Mara,Rorya,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+150,25-10-2019,16,yes,Mara,Serengeti,christian,other,1,0,0,0,0,1,1,1,1,0,police,short term protection
+151,14-02-2019,16,yes,Mara,Serengeti,christian,violence,1,0,0,0,0,1,1,1,1,0,police,short term protection
+152,09-01-2019,14,"no, never went",Mara,Serengeti,christian,child marriage,1,0,0,0,0,1,1,1,1,0,police,short term protection
+153,22-01-2019,10,yes,Mara,Serengeti,christian,violence,1,0,0,0,0,1,1,1,1,0,police,short term protection
+154,20-11-2017,17,"no, never went",Mara,Rorya,christian,child marriage,1,0,0,0,0,1,1,1,1,0,police,short term protection
+155,20-11-2017,14,yes,Mara,Rorya,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+156,20-11-2017,7,yes,Mara,Rorya,christian,fgm,NA,NA,NA,NA,NA,1,0,1,1,0,police,short term protection
+157,07-11-2017,17,yes,Mara,Serengeti,christian,child marriage,0,0,1,0,0,1,1,1,1,0,family member,short term protection
+158,20-11-2017,6,"no, never went",Mara,Rorya,christian,violence,NA,NA,NA,NA,NA,1,1,1,1,0,police,short term protection
+159,20-11-2017,3,"yes, used to go",Mara,Rorya,christian,violence,NA,NA,NA,NA,NA,1,1,1,1,0,police,short term protection
+160,25-11-2017,9,"yes, used to go",Mara,Rorya,christian,violence,NA,NA,NA,NA,NA,1,1,1,1,0,police,short term protection
+161,03-12-2018,8,"yes, used to go",Mara,Serengeti,christian,fgm,NA,NA,NA,NA,NA,1,1,1,1,0,social welfare officer,short term protection
+162,03-12-2018,14,"yes, used to go",Mara,Serengeti,christian,fgm,NA,NA,NA,NA,NA,1,1,1,1,0,police,short term protection
+163,20-11-2017,14,"yes, used to go",Mara,Rorya,christian,fgm,NA,NA,NA,NA,NA,1,1,1,1,0,police,short term protection
+164,20-11-2017,14,yes,Mara,Rorya,christian,fgm,NA,NA,NA,NA,NA,1,1,1,1,0,police,short term protection
+165,02-12-2019,NA,"no, never went",Mara,Serengeti,christian,violence,NA,NA,NA,NA,NA,1,1,0,1,0,family member,short term protection
+166,25-11-2017,8,"no, never went",Mara,Rorya,christian,child marriage,0,0,1,0,0,1,1,1,0,1,other,short term protection
+167,30-11-2019,14,yes,Mara,Serengeti,christian,child marriage,NA,NA,NA,NA,NA,1,1,1,1,0,police,short term protection
+168,02-12-2019,30,"no, never went",Mara,Serengeti,muslim,violence,0,0,1,0,0,1,1,1,1,0,police,short term protection
+169,22-01-2018,16,"no, never went",Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+170,26-04-2018,14,"no, never went",Kagera,Ngara,christian,other,NA,NA,NA,NA,NA,1,1,1,1,0,police,short term protection
+171,23-03-2018,6,NA,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+172,14-09-2018,15,NA,Mara,Serengeti,muslim,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+173,10-11-2019,20,"no, never went",Mara,Serengeti,christian,violence,0,0,1,0,0,1,1,1,1,0,police,short term protection
+174,19-09-2018,14,"yes, used to go",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+175,07-01-2019,13,"yes, used to go",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+176,21-09-2018,12,"yes, used to go",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+177,05-12-2018,16,"yes, used to go",Mara,Serengeti,christian,child marriage,0,0,0,0,1,1,1,1,1,0,social welfare officer,short term protection
+178,11-09-2019,10,"yes, used to go",Mara,Serengeti,christian,violence,0,0,1,0,0,1,1,1,1,0,volunteer,short term protection
+179,28-03-2019,12,"yes, used to go",Mara,Serengeti,christian,violence,0,0,1,0,0,1,1,1,1,0,police,short term protection
+180,28-03-2019,10,"yes, used to go",Mara,Serengeti,christian,violence,0,0,1,0,0,1,1,1,1,0,police,short term protection
+181,05-12-2019,8,yes,Mara,Serengeti,christian,rape,0,0,1,0,0,1,1,1,1,0,police,short term protection
+182,20-11-2017,14,"yes, used to go",Mara,Rorya,christian,fgm,0,0,1,0,1,1,1,1,1,1,police,short term protection
+183,17-11-2017,9,yes,Mara,Rorya,christian,fgm,0,0,1,0,0,1,1,1,1,1,police,short term protection
+184,20-11-2017,14,"yes, used to go",Mara,Rorya,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+185,20-11-2017,10,"no, never went",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+186,16-01-2018,16,"yes, used to go",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+187,10-02-2018,15,"no, never went",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+188,16-06-2018,14,"yes, used to go",Arusha,Ngorongoro,christian,fgm,0,0,1,0,0,1,1,1,1,0,religious leader,short term protection
+189,16-09-2018,14,"yes, used to go",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,1,police,short term protection
+190,04-12-2018,12,"yes, used to go",Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,1,police,short term protection
+191,21-09-2018,12,"no, never went",Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,1,police,short term protection
+192,03-12-2018,16,"yes, used to go",Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,1,police,short term protection
+193,20-11-2018,16,"yes, used to go",Mara,Serengeti,christian,violence,1,0,0,0,0,1,1,1,1,1,police,short term protection
+194,04-12-2018,14,"yes, used to go",Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,1,police,short term protection
+195,30-12-2019,11,"yes, used to go",Mara,Serengeti,christian,violence,1,0,0,0,0,1,1,1,1,0,police,short term protection
+196,03-12-2018,15,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+197,03-02-2019,14,yes,Mara,Serengeti,christian,child marriage,0,1,1,0,0,1,1,1,1,0,police,long term protection
+198,28-07-2019,14,"no, never went",Mara,Serengeti,christian,child marriage,0,1,1,0,0,1,1,1,1,0,police,short term protection
+199,19-09-2018,12,yes,Mara,Serengeti,christian,fgm,0,1,1,0,0,1,1,1,1,0,police,short term protection
+200,06-11-2017,16,yes,Mara,Rorya,christian,fgm,0,1,1,0,0,1,1,1,1,0,volunteer,long term protection
+201,12-04-2019,14,yes,Mara,Serengeti,christian,fgm,0,1,1,0,0,1,1,1,1,0,police,short term protection
+202,04-05-2018,23,"no, never went",Kilimanjaro,Mwanga,christian,violence,0,1,1,0,0,1,1,1,1,0,police,short term protection
+203,23-01-2020,14,"no, never went",Mara,Serengeti,christian,fgm,0,1,1,0,0,1,1,1,1,0,police,short term protection
+204,01-11-2019,14,yes,Mara,Serengeti,christian,child marriage,0,1,1,0,0,1,1,1,1,0,police,short term protection
+205,01-06-2019,14,yes,Mara,Serengeti,christian,fgm,0,1,1,0,0,1,1,1,1,0,school teacher,short term protection
+206,NA,14,yes,Mara,Serengeti,christian,fgm,0,1,1,0,0,1,1,1,1,0,police,short term protection
+207,11-09-2018,15,"yes, used to go",Mara,Serengeti,christian,rape,0,1,1,1,0,1,1,1,1,0,police,long term protection
+208,30-10-2017,15,yes,Mara,Serengeti,christian,fgm,0,1,1,0,0,1,1,1,1,0,police,long term protection
+209,08-11-2017,16,"yes, used to go",Arusha,Ngorongoro,christian,fgm,0,1,1,0,0,1,1,1,0,0,religious leader,long term protection
+210,30-10-2018,14,yes,Mara,Serengeti,christian,fgm,0,1,1,0,0,1,1,1,1,0,police,long term protection
+211,08-10-2018,15,yes,Mara,Serengeti,christian,fgm,0,1,1,0,0,1,1,1,1,0,police,long term protection
+212,26-02-2019,16,"no, never went",Mara,Serengeti,christian,child marriage,0,1,1,0,0,1,1,1,1,0,police,short term protection
+213,03-12-2018,14,yes,Mara,Serengeti,christian,fgm,0,1,1,0,0,1,1,1,1,0,police,long term protection
+214,15-10-2017,12,yes,Mara,Serengeti,christian,fgm,0,1,1,1,0,1,1,1,1,0,police,long term protection
+215,08-11-2017,17,yes,Arusha,Ngorongoro,christian,child marriage,0,0,1,0,0,1,1,1,1,0,police,short term protection
+216,08-11-2017,15,yes,Arusha,Ngorongoro,christian,fgm,NA,NA,NA,NA,NA,1,1,1,1,0,religious leader,short term protection
+217,20-11-2017,13,yes,Mara,Rorya,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+218,17-11-2017,12,yes,Mara,Rorya,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+219,25-11-2017,12,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+220,20-11-2017,11,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+221,04-12-2018,13,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+222,04-12-2018,12,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+223,04-12-2018,12,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+224,03-12-2018,15,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+225,01-12-2018,16,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+226,29-11-2018,14,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+227,07-12-2018,13,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+228,07-12-2018,12,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+229,04-12-2018,11,yes,Mara,Serengeti,christian,fgm,0,0,0,0,1,1,1,1,1,0,police,short term protection
+230,04-12-2018,13,yes,Mara,Serengeti,muslim,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+231,07-12-2018,10,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+232,07-12-2018,12,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+233,07-12-2018,13,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+234,07-12-2018,13,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+235,19-11-2018,10,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+236,07-12-2018,13,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+237,07-12-2018,14,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+238,07-12-2018,14,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+239,07-12-2018,11,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+240,14-12-2018,14,"no, never went",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+241,07-12-2018,14,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+242,07-12-2018,14,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+243,07-12-2018,13,yes,Mara,Serengeti,christian,NA,1,0,0,0,0,1,1,1,1,0,police,short term protection
+244,01-12-2018,13,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+245,24-11-2018,15,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+246,07-12-2018,14,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+247,07-12-2018,12,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+248,14-02-2020,19,"yes, used to go",Mara,Serengeti,christian,fgm,1,0,0,0,0,0,0,0,1,0,religious leader,reconciliation with parents
+249,11-09-2018,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,long term protection
+250,05-12-2017,13,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,long term protection
+251,05-12-2017,12,yes,Mara,Rorya,christian,child marriage,1,0,0,0,0,1,1,1,1,0,religious leader,long term protection
+252,05-11-2017,12,yes,Mara,Rorya,christian,fgm,1,0,0,0,0,1,1,1,1,0,religious leader,long term protection
+253,08-02-2018,12,"yes, used to go",Mara,Serengeti,christian,fgm,1,0,0,0,0,1,0,0,0,0,volunteer,long term protection
+254,19-11-2018,14,"yes, used to go",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,long term protection
+255,11-12-2017,14,"yes, used to go",Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,long term protection
+256,11-12-2017,14,"yes, used to go",Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,long term protection
+257,04-11-2018,16,"yes, used to go",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,long term protection
+258,07-12-2018,11,yes,Mara,Serengeti,christian,fgm,0,1,1,0,0,1,1,1,1,0,police,short term protection
+259,07-12-2018,14,yes,Mara,Serengeti,christian,fgm,0,1,1,1,0,1,1,1,1,0,police,short term protection
+260,08-12-2018,11,yes,Mara,Serengeti,christian,fgm,0,1,1,0,0,1,1,1,1,0,police,short term protection
+261,07-12-2018,12,yes,Mara,Serengeti,christian,fgm,0,1,1,0,0,1,1,1,1,0,police,short term protection
+262,07-12-2018,12,yes,Mara,Serengeti,christian,fgm,0,1,1,0,0,1,1,1,1,0,police,short term protection
+263,07-12-2018,12,yes,Mara,Serengeti,christian,fgm,0,1,1,0,0,1,1,1,1,0,police,short term protection
+264,07-12-2018,14,yes,Mara,Serengeti,christian,fgm,0,1,1,0,0,1,1,1,1,0,police,short term protection
+265,11-05-2018,10,"no, never went",Mara,Serengeti,christian,fgm,0,1,1,0,0,1,1,1,1,0,police,short term protection
+266,11-05-2018,29,"no, never went",Mara,Serengeti,paganism,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+267,07-12-2018,12,yes,Mara,Serengeti,christian,fgm,0,1,1,0,0,1,1,1,1,0,police,short term protection
+268,07-12-2018,12,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,social welfare officer,short term protection
+269,07-12-2018,12,"yes, used to go",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,reconciliation with parents
+270,07-12-2018,12,"yes, used to go",Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,reconciliation with parents
+271,07-12-2018,12,"yes, used to go",Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,reconciliation with parents
+272,07-12-2018,13,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,1,police,reconciliation with parents
+273,08-12-2018,14,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,reconciliation with parents
+274,24-12-2019,15,yes,Mara,Serengeti,christian,violence,1,0,0,0,0,1,1,1,1,0,police,short term protection
+275,17-11-2017,16,yes,Mara,Rorya,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+276,28-10-2017,13,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,reconciliation with parents
+277,25-09-2018,13,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+278,07-12-2018,14,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+279,07-12-2018,13,NA,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+280,07-12-2018,11,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+281,08-11-2018,12,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+282,07-12-2018,12,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+283,07-12-2018,12,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+284,24-12-2018,14,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+285,07-12-2018,3,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+286,20-09-2018,14,yes,Mara,Serengeti,NA,fgm,NA,NA,NA,NA,NA,0,0,0,1,0,police,other
+287,07-12-2018,15,yes,Mara,Rorya,NA,fgm,1,0,0,0,0,1,0,0,0,0,social welfare officer,short term protection
+288,19-12-2018,12,yes,Mara,Serengeti,NA,fgm,1,0,0,0,0,0,1,0,0,0,police,short term protection
+289,07-12-2018,12,yes,Mara,Serengeti,NA,fgm,1,0,0,0,0,1,0,0,0,0,police,short term protection
+290,07-12-2018,14,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+291,09-12-2018,10,yes,Mara,Serengeti,christian,fgm,NA,NA,NA,NA,NA,1,1,1,1,0,police,short term protection
+292,07-12-2018,12,yes,Mara,Serengeti,christian,fgm,NA,NA,NA,NA,NA,1,1,1,1,0,police,short term protection
+293,07-12-2018,17,"no, never went",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,NA
+294,07-12-2018,13,yes,Mara,Serengeti,christian,fgm,NA,NA,NA,NA,NA,1,1,1,1,0,police,short term protection
+295,07-12-2018,13,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+296,07-12-2018,12,yes,Mara,Serengeti,christian,fgm,NA,NA,NA,NA,NA,1,1,1,1,0,police,short term protection
+297,07-12-2018,16,yes,Mara,Serengeti,christian,fgm,NA,NA,NA,NA,NA,1,1,1,1,0,NA,short term protection
+298,07-12-2018,13,yes,Mara,Serengeti,christian,fgm,NA,NA,NA,NA,NA,1,1,1,1,0,police,short term protection
+299,07-12-2018,12,yes,Mara,Serengeti,christian,fgm,NA,NA,NA,NA,NA,1,1,1,1,0,police,short term protection
+300,07-12-2018,12,yes,Mara,Serengeti,christian,fgm,NA,NA,NA,NA,NA,1,1,1,1,0,police,short term protection
+301,07-12-2018,10,yes,Mara,Serengeti,christian,fgm,NA,NA,NA,NA,NA,1,1,1,1,0,police,short term protection
+302,07-12-2018,11,yes,Mara,Serengeti,christian,fgm,NA,NA,NA,NA,NA,1,1,1,1,0,police,short term protection
+303,07-12-2018,11,yes,Mara,Serengeti,christian,fgm,NA,NA,NA,NA,NA,1,1,1,1,0,police,short term protection
+304,04-05-2018,2,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,0,police,short term protection
+305,10-06-2019,13,yes,Mara,Serengeti,christian,violence,1,0,0,0,0,1,1,1,1,0,social welfare officer,short term protection
+306,10-06-2019,10,yes,Mara,Serengeti,christian,violence,0,0,1,0,0,1,1,1,1,0,social welfare officer,short term protection
+307,07-12-2017,14,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,0,1,1,0,police,short term protection
+308,08-11-2018,14,yes,Mara,Serengeti,christian,fgm,0,1,1,0,0,1,1,1,1,0,police,short term protection
+309,15-09-2018,16,"no, never went",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+310,NA,18,"no, never went",Mara,Serengeti,christian,fgm,0,1,1,0,0,1,0,1,1,0,volunteer,short term protection
+311,13-10-2018,16,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,volunteer,short term protection
+312,01-11-2018,15,"no, never went",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+313,06-10-2018,13,"no, never went",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,0,0,police,short term protection
+314,15-01-2018,12,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+315,12-07-2018,14,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,0,0,police,short term protection
+316,06-03-2018,15,"no, never went",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,0,1,0,police,short term protection
+317,23-11-2017,13,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,0,1,1,0,police,short term protection
+318,05-12-2017,15,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,0,1,0,0,police,short term protection
+319,05-12-2017,15,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,0,1,0,police,short term protection
+320,05-12-2017,16,yes,Mara,Serengeti,christian,child marriage,0,1,1,0,0,1,1,0,0,0,police,short term protection
+321,06-12-2017,15,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,0,0,0,police,short term protection
+322,07-12-2018,12,"yes, used to go",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,social welfare officer,short term protection
+323,10-01-2019,13,"yes, used to go",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,social welfare officer,short term protection
+324,12-12-2018,14,NA,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+325,08-12-2018,15,"yes, used to go",Mara,Serengeti,christian,child marriage,0,0,1,0,0,1,1,1,1,0,police,short term protection
+326,04-10-2018,12,"yes, used to go",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,social welfare officer,short term protection
+327,07-11-2018,14,"yes, used to go",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+328,NA,14,"no, never went",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+329,NA,14,"yes, used to go",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,social welfare officer,short term protection
+330,10-12-2018,10,"yes, used to go",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+331,05-12-2018,13,"yes, used to go",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+332,08-01-2019,11,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+333,08-01-2019,13,"yes, used to go",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+334,15-02-2019,12,"yes, used to go",Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+335,22-01-2019,16,"yes, used to go",Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+336,20-01-2019,16,"no, never went",Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+337,26-11-2018,12,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,long term protection
+338,28-12-2017,14,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,long term protection
+339,23-12-2017,9,yes,Mara,Butiam,christian,rape,1,0,0,0,0,1,1,1,1,0,community member,long term protection
+340,22-11-2018,13,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,long term protection
+341,15-12-2017,7,yes,Mara,Rorya,christian,rape,1,0,0,0,0,1,1,1,1,0,volunteer,long term protection
+342,29-11-2017,6,yes,Mara,Butiam,christian,rape,1,0,0,0,0,1,1,1,1,0,community member,long term protection
+343,11-09-2018,14,yes,Mara,Serengeti,christian,rape,1,0,0,0,0,1,1,1,1,0,government leader,short term protection
+344,05-11-2018,14,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,family member,short term protection
+345,29-09-2018,14,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+346,09-09-2018,14,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+347,15-11-2018,14,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,school teacher,short term protection
+348,20-11-2017,14,yes,Mara,Rorya,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+349,20-11-2017,15,yes,Mara,Rorya,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+350,08-10-2018,14,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+351,24-09-2018,14,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+352,06-11-2017,15,yes,Mara,Rorya,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+353,07-12-2018,12,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,social welfare officer,short term protection
+354,07-12-2018,14,yes,Mara,Serengeti,christian,fgm,NA,NA,NA,NA,NA,1,1,1,1,0,police,short term protection
+355,07-12-2018,13,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+356,NA,13,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+357,07-12-2018,14,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+358,14-12-2018,13,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+359,08-12-2018,13,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+360,08-12-2018,13,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+361,08-12-2018,14,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+362,21-12-2018,13,yes,Mara,Serengeti,christian,fgm,NA,NA,NA,NA,NA,1,1,1,1,0,social welfare officer,short term protection
+363,07-12-2018,13,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+364,07-12-2018,13,yes,Mara,Serengeti,christian,fgm,NA,NA,NA,NA,NA,1,1,1,1,0,police,short term protection
+365,08-12-2018,14,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+366,13-12-2018,13,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+367,09-12-2017,12,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,0,1,0,volunteer,short term protection
+368,NA,12,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,0,0,0,volunteer,short term protection
+369,NA,13,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,0,0,1,0,police,short term protection
+370,NA,14,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,NA,NA,NA,NA,NA,police,short term protection
+371,NA,11,yes,Mara,Serengeti,paganism,fgm,0,0,1,0,0,1,0,0,1,0,police,short term protection
+372,08-12-2017,12,yes,Mara,Serengeti,paganism,fgm,1,0,0,0,0,1,1,0,1,0,police,short term protection
+373,09-12-2017,13,yes,Mara,Serengeti,paganism,fgm,0,0,1,0,0,1,1,0,1,0,police,short term protection
+374,08-12-2017,14,yes,Mara,Serengeti,paganism,fgm,0,0,1,0,0,1,1,0,1,0,police,short term protection
+375,01-11-2018,10,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+376,15-11-2018,5,"no, never went",Mara,Butiam,christian,rape,0,1,1,0,0,1,1,1,1,0,police,long term protection
+377,18-07-2019,15,yes,Mara,Bunda,christian,rape,0,1,1,0,0,1,1,1,1,0,police,short term protection
+378,07-08-2019,14,yes,Mara,Bunda,christian,rape,0,1,1,0,0,1,1,1,1,0,police,prosecution
+379,04-11-2018,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+380,04-12-2018,9,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+381,01-11-2018,15,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+382,01-11-2018,10,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+383,01-11-2018,10,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+384,05-12-2018,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+385,01-11-2018,10,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+386,01-11-2018,9,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+387,01-11-2018,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+388,05-12-2018,6,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+389,01-11-2018,11,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+390,03-12-2019,14,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,short term protection
+391,11-11-2018,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+392,21-11-2019,10,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+393,11-11-2018,17,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+394,16-07-2019,12,yes,Mara,Musoma,christian,fgm,1,0,0,0,0,1,1,1,1,1,police,prosecution
+395,16-06-2019,10,yes,Mara,Musoma,christian,fgm,1,0,0,0,0,1,1,1,1,1,police,prosecution
+396,08-09-2019,12,yes,Mara,Rorya,christian,fgm,1,0,0,0,0,1,1,1,1,1,police,prosecution
+397,11-11-2018,13,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+398,25-10-2019,5,"no, never went",Mara,Bunda,christian,violence,0,0,1,0,0,1,1,1,1,0,police,long term protection
+399,21-11-2019,9,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+400,09-11-2019,13,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+401,11-11-2018,14,NA,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+402,11-11-2018,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+403,29-11-2019,13,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,police,prosecution
+404,11-11-2018,10,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+405,20-06-2019,16,NA,Mara,Musoma,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+406,04-12-2018,10,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+407,04-12-2018,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+408,03-12-2018,8,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+409,04-11-2018,11,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+410,04-12-2018,12,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+411,04-12-2018,13,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+412,04-12-2018,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+413,04-12-2018,18,NA,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+414,11-11-2018,14,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+415,20-11-2018,15,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,came herself,short term protection
+416,11-11-2019,13,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+417,11-11-2018,11,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+418,18-11-2018,13,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+419,11-11-2018,13,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+420,11-11-2018,14,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+421,04-12-2018,8,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+422,04-12-2018,13,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+423,04-12-2018,16,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+424,04-11-2018,7,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+425,04-12-2018,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+426,04-12-2018,13,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+427,12-12-2018,14,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+428,01-12-2018,16,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+429,01-12-2018,16,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+430,26-11-2018,12,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+431,04-12-2018,13,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+432,26-11-2018,15,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+433,08-01-2020,6,"no, never went",Mara,Musoma,christian,violence,1,0,0,0,0,1,1,1,1,0,community member,short term protection
+434,11-11-2018,15,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+435,01-11-2018,19,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+436,09-12-2018,16,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+437,09-12-2018,17,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+438,09-12-2018,13,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+439,22-11-2018,15,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+440,09-12-2018,11,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+441,09-12-2018,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+442,09-12-2018,11,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+443,09-12-2018,9,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+444,09-12-2018,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+445,22-11-2018,1,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,0,0,government leader,long term protection
+446,08-11-2018,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+447,08-11-2018,13,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,religious leader,short term protection
+448,29-11-2018,13,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,0,0,volunteer,short term protection
+449,18-02-2020,18,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+450,08-11-2018,17,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+451,01-11-2018,15,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+452,01-11-2018,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+453,01-11-2018,12,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,0,0,volunteer,short term protection
+454,01-11-2018,9,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+455,01-11-2018,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+456,08-11-2018,8,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+457,01-11-2018,15,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+458,01-11-2018,13,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+459,01-11-2018,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+460,01-11-2018,12,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+461,01-11-2018,10,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+462,01-11-2018,11,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+463,01-11-2018,12,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+464,04-12-2018,15,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+465,04-12-2018,10,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+466,01-12-2018,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+467,01-12-2018,13,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+468,01-12-2018,17,NA,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+469,01-12-2018,19,NA,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+470,01-12-2018,9,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+471,01-12-2018,14,NA,Mara,Tarime,christian,fgm,NA,NA,NA,NA,NA,1,1,1,1,1,volunteer,prosecution
+472,09-12-2018,16,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+473,01-11-2018,11,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+474,01-11-2018,9,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+475,18-02-2020,13,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+476,01-11-2018,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+477,01-11-2018,17,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+478,01-11-2018,13,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+479,01-11-2018,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+480,01-11-2018,11,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+481,01-11-2018,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+482,01-11-2018,6,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+483,01-11-2018,10,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+484,01-11-2018,6,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,0,1,0,volunteer,short term protection
+485,09-12-2018,11,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+486,11-12-2018,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+487,09-12-2018,6,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+488,01-12-2018,12,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+489,01-12-2018,12,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+490,01-12-2018,13,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+491,09-12-2018,10,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+492,01-12-2018,16,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+493,09-12-2018,19,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+494,09-12-2018,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+495,16-10-2018,17,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+496,08-11-2018,6,"no, never went",Mara,Tarime,christian,child marriage,1,0,0,0,0,1,1,1,1,0,community member,short term protection
+497,07-12-2018,8,"no, never went",Mara,Tarime,christian,rape,1,0,0,0,0,1,1,1,1,0,police,short term protection
+498,12-11-2018,12,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+499,03-12-2018,10,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+500,20-09-2018,15,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+501,10-12-2018,16,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+502,21-12-2018,NA,yes,Mara,Tarime,NA,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+503,22-11-2018,NA,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+504,29-12-2018,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+505,12-12-2018,15,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+506,30-11-2018,16,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+507,27-12-2018,13,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,came herself,short term protection
+508,28-12-2018,13,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,came herself,short term protection
+509,27-12-2017,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+510,23-01-2018,24,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,community member,short term protection
+511,28-12-2017,12,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,school teacher,short term protection
+512,30-11-2018,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+513,21-12-2018,13,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+514,07-12-2018,16,"no, never went",Mwanza,Magu,christian,child marriage,1,0,0,0,0,1,1,1,1,0,came herself,short term protection
+515,07-12-2018,15,"no, never went",Mwanza,Magu,christian,child marriage,1,0,0,0,0,1,1,1,1,0,community member,short term protection
+516,07-12-2018,11,"no, never went",Mara,Tarime,christian,child marriage,1,0,0,0,0,1,1,1,1,0,religious leader,short term protection
+517,06-12-2018,12,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,community member,short term protection
+518,07-12-2018,13,"no, never went",Mwanza,Magu,christian,child marriage,1,0,0,0,0,1,1,1,1,0,came herself,short term protection
+519,07-12-2018,16,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,came herself,short term protection
+520,07-12-2018,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,came herself,short term protection
+521,02-11-2018,11,"no, never went",Mara,Tarime,christian,rape,1,0,0,0,0,1,1,1,1,0,community member,short term protection
+522,08-12-2018,11,"no, never went",Mara,Butiam,christian,rape,1,0,0,0,0,1,1,1,1,0,community member,short term protection
+523,06-12-2017,12,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,community member,short term protection
+524,08-12-2018,13,"no, never went",Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,0,came herself,short term protection
+525,27-10-2018,5,"no, never went",Mara,Tarime,christian,violence,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+526,09-12-2017,8,"no, never went",Mara,Tarime,christian,rape,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+527,29-12-2018,11,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+528,08-12-2018,10,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+529,08-12-2018,16,yes,Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+530,08-12-2018,8,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+531,16-11-2018,14,"no, never went",Mwanza,Magu,christian,child marriage,1,0,0,0,0,1,1,1,1,0,religious leader,short term protection
+532,02-10-2019,12,yes,Mara,Bunda,christian,fgm,1,0,0,0,0,1,1,1,1,0,social welfare officer,short term protection
+533,08-10-2019,15,yes,Mara,Musoma,christian,fgm,1,0,0,0,0,1,1,1,1,0,social welfare officer,short term protection
+534,03-09-2019,13,yes,Mara,Musoma,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+535,05-11-2019,10,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+536,06-11-2019,15,yes,Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+537,13-11-2019,18,yes,Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+538,02-12-2019,15,yes,Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,1,police,short term protection
+539,07-11-2019,12,yes,Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,1,community member,short term protection
+540,05-11-2019,16,yes,Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,1,came herself,short term protection
+541,10-12-2019,12,yes,Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,1,came herself,short term protection
+542,30-10-2019,15,yes,Mara,Butiam,christian,child marriage,0,0,1,0,0,1,1,1,1,1,police,prosecution
+543,15-05-2019,18,yes,Mara,Butiam,christian,violence,0,0,1,0,0,1,1,0,1,0,religious leader,reconciliation with parents
+544,28-03-2019,16,yes,Mara,Butiam,christian,rape,0,1,0,0,0,1,1,0,1,1,police,prosecution
+545,10-12-2019,9,yes,Mara,Butiam,christian,child marriage,0,0,1,0,0,1,1,1,1,0,school teacher,reconciliation with parents
+546,23-09-2019,12,yes,Mara,Butiam,christian,child marriage,0,0,1,0,0,1,1,0,1,1,social welfare officer,short term protection
+547,15-10-2019,14,yes,Mara,Butiam,christian,violence,0,0,1,0,0,1,0,0,1,0,came herself,reconciliation with parents
+548,12-12-2018,15,yes,Mara,Butiam,christian,rape,0,0,1,0,0,1,1,0,1,0,came herself,short term protection
+549,07-11-2018,15,yes,Mara,Butiam,christian,violence,1,0,0,0,0,1,0,1,1,0,school teacher,reconciliation with parents
+550,07-05-2019,14,yes,Mara,Tarime,muslim,fgm,1,0,0,0,0,1,1,0,1,1,volunteer,short term protection
+551,05-11-2018,16,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,0,1,1,volunteer,short term protection
+552,02-07-2019,11,yes,Mara,Bunda,christian,fgm,1,0,0,0,0,1,1,0,1,0,volunteer,short term protection
+553,07-08-2019,13,yes,Mwanza,Nyamagana,christian,fgm,1,0,0,0,0,1,1,0,1,0,came herself,reconciliation with parents
+554,04-06-2019,11,yes,Mara,Tarime,christian,fgm,0,0,1,0,0,1,1,0,1,0,came herself,short term protection
+555,04-12-2018,13,yes,Mwanza,Nyamagana,christian,fgm,0,0,1,0,0,1,1,0,1,1,came herself,short term protection
+556,07-08-2019,18,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,0,1,0,came herself,short term protection
+557,04-06-2019,13,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,0,0,came herself,short term protection
+558,07-08-2019,12,yes,Mara,Butiam,christian,fgm,0,0,1,0,0,1,1,1,1,0,came herself,short term protection
+559,18-09-2019,11,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,0,1,0,school teacher,short term protection
+560,10-11-2017,18,"no, never went",Mara,Tarime,christian,child marriage,1,0,0,0,0,1,1,1,1,1,police,prosecution
+561,04-12-2017,16,NA,Mara,Musoma,christian,rape,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+562,11-11-2018,18,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+563,03-12-2019,NA,yes,Mara,Tarime,NA,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+564,04-11-2018,15,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+565,02-12-2018,16,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+566,04-01-2019,15,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+567,05-12-2018,17,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+568,29-11-2018,18,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+569,02-12-2018,12,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+570,10-11-2018,16,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+571,06-12-2017,18,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+572,07-12-2017,17,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,police,prosecution
+573,08-12-2017,18,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+574,02-12-2017,10,yes,Mara,Tarime,christian,NA,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+575,05-12-2017,15,yes,Mara,Tarime,christian,child marriage,1,0,0,0,0,1,1,1,1,1,police,prosecution
+576,06-12-2019,19,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,prosecution
+577,06-12-2019,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+578,06-12-2019,19,"no, never went",Mara,Tarime,christian,child marriage,1,0,0,0,0,1,1,1,1,1,police,prosecution
+579,06-12-2019,16,yes,Mara,Tarime,NA,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+580,06-12-2019,15,"no, never went",Mara,Tarime,christian,child marriage,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+581,05-11-2018,14,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+582,06-12-2017,10,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+583,06-12-2017,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+584,NA,12,yes,Mara,Serengeti,paganism,fgm,0,0,1,0,0,1,1,0,1,0,police,short term protection
+585,NA,13,yes,Mara,Serengeti,paganism,fgm,1,0,0,0,0,1,0,0,1,0,police,short term protection
+586,08-12-2017,NA,yes,Mara,Serengeti,paganism,fgm,0,0,1,0,0,1,0,0,1,0,police,short term protection
+587,08-12-2017,13,yes,Mara,Serengeti,paganism,fgm,0,0,1,0,0,NA,NA,NA,NA,NA,volunteer,short term protection
+588,04-12-2017,NA,NA,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,0,0,1,0,police,short term protection
+589,03-12-2018,12,yes,Mara,Serengeti,paganism,fgm,0,0,1,0,0,1,0,0,1,0,police,short term protection
+590,01-12-2017,14,yes,Mara,Serengeti,paganism,fgm,0,0,1,0,0,NA,NA,NA,NA,NA,police,short term protection
+591,15-11-2017,NA,yes,Mara,Serengeti,paganism,fgm,0,0,1,0,0,1,1,0,1,0,police,short term protection
+592,19-12-2018,13,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,0,0,1,0,police,short term protection
+593,01-12-2017,12,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,0,0,1,0,police,short term protection
+594,19-12-2017,14,yes,Mara,Serengeti,paganism,fgm,0,0,1,0,0,1,1,0,1,0,police,short term protection
+595,18-12-2017,14,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,0,0,1,0,police,short term protection
+596,15-12-2018,15,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,0,0,0,1,0,police,short term protection
+597,06-03-2018,14,yes,Mara,Serengeti,paganism,fgm,0,0,1,0,0,1,0,0,1,0,police,short term protection
+598,NA,12,yes,Mara,Serengeti,muslim,child marriage,0,0,1,0,0,1,0,0,1,0,police,short term protection
+599,21-12-2018,12,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,0,0,1,0,police,short term protection
+600,24-12-2018,11,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,0,1,0,police,short term protection
+601,16-12-2018,13,yes,Mara,Serengeti,christian,other,0,0,1,0,1,1,1,0,1,0,police,short term protection
+602,18-12-2018,12,yes,Mara,Serengeti,christian,child marriage,0,0,1,0,0,1,1,0,1,0,police,short term protection
+603,05-12-2018,13,yes,Mara,Serengeti,muslim,child marriage,0,1,1,0,0,1,1,1,1,0,police,short term protection
+604,02-12-2018,13,yes,Mara,Serengeti,christian,fgm,0,1,0,0,0,1,1,0,1,0,police,short term protection
+605,15-12-2018,14,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,0,1,0,police,short term protection
+606,08-12-2018,11,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,0,1,0,1,0,police,short term protection
+607,12-12-2018,13,yes,Mara,Serengeti,muslim,child marriage,0,0,1,0,0,1,1,0,0,0,police,short term protection
+608,11-12-2018,11,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,0,1,1,0,police,short term protection
+609,02-12-2018,12,yes,Mara,Serengeti,christian,fgm,0,1,1,0,0,1,0,1,1,0,police,short term protection
+610,23-12-2018,13,yes,Mara,Serengeti,christian,fgm,0,1,1,0,0,1,1,0,0,0,police,short term protection
+611,07-12-2018,14,yes,Mara,Serengeti,christian,child marriage,0,0,1,0,0,1,1,1,1,0,police,short term protection
+612,13-12-2018,12,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+613,16-12-2018,13,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,0,0,0,police,short term protection
+614,18-12-2018,12,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,0,1,1,0,police,short term protection
+615,17-12-2018,13,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,0,0,1,0,police,short term protection
+616,15-12-2018,11,yes,Mara,Serengeti,muslim,fgm,0,1,0,0,0,1,0,1,1,0,police,short term protection
+617,04-12-2018,14,yes,Mara,Serengeti,christian,fgm,0,1,1,0,0,1,0,1,0,0,police,short term protection
+618,08-12-2018,12,yes,Mara,Serengeti,christian,child marriage,0,0,1,0,0,1,0,1,1,0,police,short term protection
+619,02-12-2018,11,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,0,1,1,1,0,police,short term protection
+620,13-12-2018,14,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+621,20-12-2018,12,yes,Mara,Serengeti,christian,fgm,0,1,1,0,0,1,1,0,1,0,police,short term protection
+622,12-12-2018,12,yes,Mara,Serengeti,christian,child marriage,0,1,1,0,0,1,1,0,1,0,police,short term protection
+623,04-12-2018,12,yes,Mara,Serengeti,christian,fgm,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,police,short term protection
+624,21-12-2018,13,yes,Mara,Serengeti,christian,other,0,0,1,0,1,1,0,0,1,0,police,short term protection
+625,02-12-2017,16,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+626,03-12-2018,15,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+627,01-12-2017,10,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+628,01-12-2018,14,yes,Mara,Musoma,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+629,02-12-2017,16,yes,Mara,Tarime,christian,child marriage,1,0,0,0,0,1,1,1,1,1,police,prosecution
+630,04-01-2019,17,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+631,06-12-2018,18,NA,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+632,06-12-2018,18,NA,Mara,Tarime,christian,child marriage,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+633,04-12-2018,19,NA,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+634,06-12-2018,17,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,NA
+635,03-12-2018,15,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+636,02-12-2018,18,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+637,03-12-2017,15,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+638,06-12-2018,18,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+639,02-12-2018,17,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+640,02-12-2018,12,yes,Singida,Singida,christian,fgm,1,0,0,0,0,1,1,1,1,1,police,prosecution
+641,06-11-2018,13,yes,Singida,Singida,christian,fgm,1,0,0,0,0,1,1,1,1,1,police,prosecution
+642,02-11-2018,15,yes,Mara,Tarime,christian,child marriage,1,0,0,0,0,1,1,1,1,1,police,prosecution
+643,02-12-2018,16,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+644,03-12-2018,18,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+645,04-12-2018,17,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+646,01-12-2017,16,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+647,02-12-2017,10,yes,Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+648,02-12-2017,13,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+649,02-12-2017,11,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+650,02-12-2017,16,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+651,04-12-2017,12,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+652,02-12-2017,10,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+653,02-12-2017,18,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+654,02-12-2017,16,yes,Mara,Musoma,christian,child marriage,1,0,0,0,0,1,1,1,1,1,police,prosecution
+655,NA,19,NA,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+656,04-12-2018,16,NA,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+657,04-11-2018,10,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+658,02-12-2018,15,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+659,02-12-2018,15,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+660,06-12-2019,16,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+661,06-11-2019,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+662,06-12-2019,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+663,06-12-2019,19,NA,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+664,06-12-2019,12,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+665,06-12-2019,17,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+666,06-12-2019,19,NA,Mara,Tarime,christian,child marriage,1,0,0,0,0,1,1,1,1,1,NA,prosecution
+667,03-12-2019,16,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+668,03-12-2019,16,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+669,06-12-2019,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+670,06-12-2019,17,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+671,06-12-2019,16,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+672,06-11-2019,16,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+673,06-12-2019,16,yes,Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+674,03-12-2018,15,"no, never went",Mara,Butiam,christian,child marriage,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+675,02-01-2019,12,NA,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+676,28-11-2018,16,yes,Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+677,06-12-2018,15,yes,Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+678,03-12-2018,13,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+679,05-06-2019,12,yes,Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,1,came herself,short term protection
+680,06-08-2019,13,yes,Mara,Butiam,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+681,25-09-2019,15,yes,Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,1,community member,reconciliation with parents
+682,03-04-2019,12,yes,Mara,Butiam,christian,violence,0,0,1,0,0,1,1,0,1,0,came herself,short term protection
+683,05-06-2019,11,yes,Mara,Butiam,christian,violence,1,0,0,0,0,1,1,0,1,0,came herself,short term protection
+684,11-09-2019,15,yes,Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,1,police,reconciliation with parents
+685,26-06-2019,15,yes,Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,1,came herself,reconciliation with parents
+686,25-04-2019,15,yes,Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,0,community member,reconciliation with parents
+687,04-09-2019,9,yes,Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,0,1,0,came herself,reconciliation with parents
+688,09-07-2019,9,yes,Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,0,came herself,reconciliation with parents
+689,05-08-2019,10,yes,Mara,Butiam,christian,violence,1,0,0,0,0,1,1,0,1,1,came herself,reconciliation with parents
+690,05-11-2019,10,yes,Mara,Butiam,christian,violence,1,0,0,0,0,1,1,0,1,1,came herself,reconciliation with parents
+691,08-10-2019,12,yes,Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,1,came herself,reconciliation with parents
+692,24-09-2019,12,yes,Mara,Butiam,christian,violence,1,0,0,0,0,1,1,0,1,1,came herself,reconciliation with parents
+693,10-09-2019,11,yes,Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,1,came herself,reconciliation with parents
+694,04-09-2019,13,yes,Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,0,came herself,reconciliation with parents
+695,22-10-2019,15,yes,Mara,Butiam,muslim,violence,1,0,0,0,0,1,1,1,1,1,came herself,reconciliation with parents
+696,06-11-2019,10,yes,Mara,Musoma,christian,violence,1,0,0,0,0,1,1,1,1,1,came herself,short term protection
+697,15-10-2019,16,yes,Mara,Tarime,christian,violence,1,0,0,0,0,1,1,1,1,1,came herself,reconciliation with parents
+698,03-09-2019,9,yes,Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,0,0,came herself,reconciliation with parents
+699,05-11-2019,10,yes,Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,1,came herself,reconciliation with parents
+700,31-10-2019,12,yes,Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,1,came herself,reconciliation with parents
+701,06-11-2019,12,yes,Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,0,came herself,reconciliation with parents
+702,15-10-2019,10,yes,Mara,Butiam,christian,violence,1,0,0,0,0,1,1,0,1,1,came herself,reconciliation with parents
+703,31-10-2019,9,yes,Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,0,came herself,reconciliation with parents
+704,06-11-2019,9,yes,Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,0,0,came herself,reconciliation with parents
+705,05-11-2019,11,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+706,09-10-2019,9,"no, never went",Mara,Butiam,christian,violence,0,0,1,0,0,1,0,1,1,0,religious leader,long term protection
+707,21-11-2019,12,"yes, used to go",Mara,Butiam,christian,violence,1,0,0,0,0,1,0,1,0,0,came herself,reconciliation with parents
+708,05-11-2019,12,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,0,1,1,1,came herself,short term protection
+709,03-12-2019,13,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,0,1,0,religious leader,short term protection
+710,05-11-2019,13,"yes, used to go",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,0,0,0,religious leader,short term protection
+711,05-11-2019,13,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,0,1,0,religious leader,short term protection
+712,05-11-2019,10,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,1,religious leader,short term protection
+713,03-12-2019,13,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,1,came herself,short term protection
+714,01-10-2019,13,"yes, used to go",Mara,Butiam,christian,violence,1,0,0,0,0,1,0,0,0,0,came herself,short term protection
+715,05-11-2019,9,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,0,community member,short term protection
+716,05-11-2019,13,"no, never went",Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,1,came herself,short term protection
+717,05-11-2019,13,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,0,1,0,religious leader,short term protection
+718,05-11-2019,13,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,1,community member,short term protection
+719,05-11-2019,13,"no, never went",Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,0,1,1,came herself,short term protection
+720,25-09-2019,13,"no, never went",Mara,Tarime,christian,violence,1,0,0,0,0,1,1,0,1,1,religious leader,short term protection
+721,06-11-2019,12,"yes, used to go",Mara,Tarime,christian,violence,1,0,0,0,0,1,1,1,0,0,community member,short term protection
+722,10-07-2019,13,"no, never went",Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,1,community member,short term protection
+723,23-10-2019,18,"no, never went",Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,0,came herself,short term protection
+724,04-12-2019,16,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,0,1,1,community member,short term protection
+725,03-12-2019,16,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,1,came herself,short term protection
+726,11-09-2019,19,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,1,came herself,short term protection
+727,06-12-2018,15,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,prosecution
+728,28-12-2017,10,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+729,04-11-2017,12,"no, never went",Mara,Tarime,christian,child marriage,1,0,0,0,0,1,1,1,1,0,came herself,short term protection
+730,02-12-2017,13,"no, never went",Mara,Tarime,christian,child marriage,1,0,0,0,0,1,1,1,1,0,religious leader,short term protection
+731,03-11-2018,13,"no, never went",Mara,Butiam,christian,child marriage,1,0,0,0,0,1,1,1,1,0,came herself,short term protection
+732,03-11-2018,15,"no, never went",Mwanza,Magu,christian,child marriage,1,0,0,0,0,1,1,1,1,0,religious leader,short term protection
+733,08-12-2018,15,"no, never went",Mara,Butiam,christian,child marriage,1,0,0,0,0,1,1,1,1,0,school teacher,short term protection
+734,10-11-2018,15,"no, never went",Mara,Tarime,christian,rape,1,0,0,0,0,1,1,1,1,0,community member,short term protection
+735,10-11-2018,13,"no, never went",Mara,Butiam,christian,rape,1,0,0,0,0,1,1,1,1,0,religious leader,short term protection
+736,03-11-2018,14,"no, never went",Mara,Tarime,christian,violence,1,0,0,0,0,1,1,1,1,0,community member,short term protection
+737,15-12-2018,12,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+738,08-12-2018,13,"no, never went",Mara,Tarime,christian,violence,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+739,05-01-2018,12,"no, never went",Mara,Tarime,christian,rape,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+740,09-12-2017,10,"no, never went",Mara,Tarime,christian,violence,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+741,08-12-2018,8,"no, never went",Mara,Tarime,christian,violence,1,0,0,0,0,1,1,1,1,0,police,short term protection
+742,08-12-2018,6,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,0,police,short term protection
+743,08-12-2018,16,"no, never went",Mara,Butiam,christian,rape,0,1,1,0,0,1,1,1,1,0,police,short term protection
+744,08-12-2018,15,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+745,10-11-2018,12,"no, never went",Mara,Tarime,christian,rape,1,0,0,0,0,1,1,1,1,0,police,short term protection
+746,08-12-2018,12,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+747,08-12-2018,14,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+748,02-12-2017,12,"no, never went",Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+749,03-11-2018,14,"no, never went",Mara,Tarime,christian,rape,1,0,0,0,0,1,1,1,1,0,police,short term protection
+750,08-12-2018,24,"no, never went",Mara,Butiam,christian,rape,1,0,0,0,0,1,1,1,1,0,police,short term protection
+751,08-12-2018,9,"no, never went",Mara,Butiam,christian,rape,1,0,0,0,0,1,1,1,1,0,police,short term protection
+752,08-12-2018,14,"no, never went",Mara,Butiam,christian,rape,1,0,0,0,0,1,1,1,1,0,police,short term protection
+753,03-11-2018,15,"no, never went",Mara,Butiam,christian,rape,1,0,0,0,0,1,1,1,1,0,police,short term protection
+754,08-12-2018,10,"no, never went",Mara,Butiam,christian,rape,1,0,0,0,0,1,1,1,1,0,police,short term protection
+755,08-12-2018,16,"no, never went",Mara,Butiam,christian,child marriage,1,0,0,0,0,1,1,1,1,0,police,short term protection
+756,01-12-2018,14,"no, never went",Mara,Butiam,christian,child marriage,1,0,0,0,0,1,1,1,1,0,police,short term protection
+757,08-12-2018,12,"no, never went",Mara,Tarime,christian,violence,1,0,0,0,0,1,1,1,1,0,police,short term protection
+758,10-11-2018,14,"no, never went",Mara,Butiam,christian,rape,1,0,0,0,0,1,1,1,1,0,police,short term protection
+759,08-12-2018,6,"no, never went",Mara,Butiam,christian,rape,1,0,0,0,0,1,1,1,1,0,police,short term protection
+760,08-12-2018,12,"no, never went",Mara,Butiam,christian,rape,1,0,0,0,0,1,1,1,1,0,police,short term protection
+761,03-11-2018,14,"no, never went",Mara,Butiam,christian,rape,1,0,0,0,0,1,1,1,1,0,police,short term protection
+762,08-12-2018,15,"no, never went",Mara,Butiam,christian,rape,1,0,0,0,0,1,1,1,1,1,police,short term protection
+763,08-12-2018,14,"no, never went",Mara,Butiam,christian,child marriage,1,0,0,0,0,1,1,1,1,0,police,short term protection
+764,08-12-2018,15,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,0,police,short term protection
+765,08-12-2018,16,"no, never went",Mara,Butiam,christian,child marriage,1,0,0,0,0,1,1,1,1,0,police,short term protection
+766,02-12-2017,9,"no, never went",Mara,Tarime,christian,violence,1,0,0,0,0,1,1,1,1,0,government leader,short term protection
+767,01-12-2018,15,"no, never went",Mara,Serengeti,christian,violence,1,0,0,0,0,1,1,1,1,0,police,short term protection
+768,01-12-2018,11,"no, never went",Mara,Tarime,christian,rape,1,0,0,0,0,1,1,1,1,0,police,NA
+769,08-12-2018,10,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,0,police,short term protection
+770,04-11-2017,12,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,0,police,short term protection
+771,01-12-2018,14,"no, never went",Mara,Tarime,christian,violence,1,0,0,0,0,1,1,1,1,1,police,short term protection
+772,08-12-2018,10,"no, never went",Mara,Tarime,christian,violence,1,0,0,0,0,1,1,1,1,0,police,short term protection
+773,01-12-2018,12,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,0,police,short term protection
+774,03-11-2018,9,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,0,police,short term protection
+775,08-12-2018,10,"no, never went",Mara,Butiam,christian,rape,1,0,0,0,0,1,1,1,1,0,police,short term protection
+776,01-12-2018,7,"no, never went",Mara,Butiam,christian,rape,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+777,08-12-2018,13,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,0,police,short term protection
+778,08-12-2018,10,"no, never went",Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+779,01-12-2018,10,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,0,police,short term protection
+780,05-01-2019,8,yes,Mara,Tarime,christian,rape,1,0,0,0,0,1,1,1,1,0,school teacher,short term protection
+781,04-12-2018,13,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+782,04-12-2018,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+783,08-12-2018,12,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+784,03-11-2018,15,yes,Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+785,04-12-2018,10,yes,Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+786,03-11-2018,9,yes,Mara,Tarime,christian,violence,0,1,1,0,0,1,1,1,1,0,volunteer,short term protection
+787,08-12-2018,13,yes,Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+788,03-12-2018,10,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+789,03-11-2018,12,"no, never went",Mara,Butiam,christian,child marriage,1,0,0,0,0,1,1,1,1,0,police,short term protection
+790,08-12-2018,15,"no, never went",Mara,Butiam,christian,child marriage,1,0,0,0,0,1,1,1,1,0,police,short term protection
+791,08-12-2018,14,"no, never went",Mara,Butiam,christian,child marriage,1,0,0,0,0,1,1,1,1,0,police,short term protection
+792,04-12-2018,12,"no, never went",Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,1,police,short term protection
+793,08-12-2018,12,"no, never went",Mara,Butiam,christian,child marriage,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+794,04-12-2018,12,"no, never went",Mara,Butiam,christian,child marriage,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+795,07-12-2018,14,"no, never went",Mara,Butiam,christian,child marriage,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+796,02-12-2017,10,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+797,04-12-2018,14,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+798,01-12-2018,10,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+799,07-02-2019,12,"no, never went",Mara,Tarime,muslim,fgm,1,0,0,0,0,1,1,0,1,1,came herself,short term protection
+800,03-11-2018,10,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,volunteer,short term protection
+801,03-11-2018,10,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+802,05-06-2019,15,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,0,1,1,religious leader,short term protection
+803,03-12-2018,12,yes,Mara,Tarime,christian,fgm,NA,NA,NA,NA,NA,1,1,1,1,0,police,short term protection
+804,09-07-2019,13,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,0,1,1,came herself,short term protection
+805,01-12-2018,9,yes,Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,0,police,short term protection
+806,04-09-2019,13,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,0,1,1,0,community member,short term protection
+807,09-10-2019,15,yes,Mwanza,Nyamagana,christian,violence,1,0,0,0,0,1,1,1,1,1,came herself,reconciliation with parents
+808,25-09-2019,13,"no, never went",Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,1,came herself,reconciliation with parents
+809,11-09-2019,13,yes,Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,0,1,1,school teacher,reconciliation with parents
+810,18-09-2019,16,yes,Mara,Butiam,christian,violence,1,0,0,0,0,1,1,0,1,0,came herself,reconciliation with parents
+811,08-10-2019,15,yes,Mwanza,Kwimba,christian,violence,1,0,0,0,0,1,1,1,1,1,social welfare officer,short term protection
+812,10-09-2019,16,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,1,volunteer,short term protection
+813,06-11-2019,15,yes,Mara,Bunda,christian,violence,1,0,0,0,0,1,1,1,1,0,came herself,reconciliation with parents
+814,04-09-2019,16,"no, never went",Mara,Musoma,christian,violence,1,0,0,0,0,1,1,0,1,1,came herself,short term protection
+815,07-08-2019,15,"no, never went",Mara,Bunda,christian,violence,1,0,0,0,0,1,1,1,1,1,community member,short term protection
+816,09-10-2019,16,yes,Mara,Tarime,christian,violence,1,0,0,0,0,1,1,1,1,0,came herself,reconciliation with parents
+817,16-10-2019,15,"no, never went",Mara,Tarime,christian,violence,1,0,0,0,0,1,1,1,1,1,came herself,reconciliation with parents
+818,16-10-2019,14,yes,Mara,Tarime,christian,violence,1,0,0,0,0,1,1,1,0,1,came herself,reconciliation with parents
+819,10-09-2019,16,"no, never went",Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,1,community member,short term protection
+820,05-11-2019,13,"no, never went",Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,1,1,came herself,reconciliation with parents
+821,01-10-2019,13,yes,Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,0,0,community member,short term protection
+822,16-10-2019,13,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,1,came herself,reconciliation with parents
+823,17-10-2019,15,"no, never went",Mara,Butiam,christian,fgm,1,0,0,0,0,1,1,1,0,1,came herself,reconciliation with parents
+824,08-10-2019,13,"no, never went",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,religious leader,reconciliation with parents
+825,02-10-2019,13,"yes, used to go",Mara,Tarime,christian,fgm,1,0,0,0,0,1,0,1,1,1,community member,reconciliation with parents
+826,17-09-2019,14,"no, never went",Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,1,community member,reconciliation with parents
+827,07-11-2019,15,"yes, used to go",Mara,Tarime,christian,fgm,1,0,0,0,0,1,1,1,1,1,volunteer,reconciliation with parents
+828,21-12-2018,12,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,0,0,1,0,police,short term protection
+829,31-12-2018,14,yes,Mara,Serengeti,christian,child marriage,0,0,1,0,0,1,0,1,1,0,police,short term protection
+830,26-12-2018,13,yes,Mara,Serengeti,christian,child marriage,0,1,1,0,0,0,1,1,0,0,police,short term protection
+831,24-12-2018,11,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,0,1,0,police,short term protection
+832,17-12-2018,12,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+833,12-12-2018,11,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,0,1,0,police,short term protection
+834,27-12-2018,13,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,0,1,0,police,short term protection
+835,18-12-2018,13,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,0,1,1,1,0,police,short term protection
+836,30-12-2018,12,yes,Mara,Serengeti,christian,child marriage,0,0,1,0,0,1,1,1,1,0,police,short term protection
+837,23-12-2018,12,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,0,1,0,police,short term protection
+838,31-12-2018,13,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,0,1,1,1,0,police,short term protection
+839,29-12-2018,11,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,0,1,0,police,short term protection
+840,21-12-2018,11,yes,Mara,Serengeti,christian,fgm,1,0,0,0,0,1,1,0,1,0,police,short term protection
+841,22-12-2018,14,yes,Mara,Serengeti,christian,child marriage,0,1,1,0,0,1,1,0,1,0,police,short term protection
+842,28-12-2018,14,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+843,25-12-2018,13,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,police,short term protection
+844,27-12-2018,11,yes,Mara,Serengeti,christian,other,0,0,1,0,0,1,0,1,1,0,police,short term protection
+845,27-12-2018,13,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,0,1,1,0,police,short term protection
+846,30-12-2018,12,yes,Mara,Serengeti,christian,fgm,0,0,1,0,0,1,1,1,1,0,school teacher,short term protection
+847,03-03-2020,12,yes,Mara,Butiam,christian,violence,1,0,0,0,0,1,1,1,1,0,police,short term protection
+848,04-03-2020,12,yes,Mara,Butiam,christian,rape,0,0,1,0,0,1,1,1,1,0,police,long term protection
+849,04-03-2020,9,yes,Mara,Butiam,christian,rape,0,0,1,0,0,1,1,1,0,0,police,long term protection
+850,08-03-2020,12,yes,Mara,Butiam,christian,child marriage,1,0,0,0,0,1,1,1,1,0,police,short term protection
+851,03-04-2020,19,yes,Mara,Serengeti,NA,fgm,0,0,1,0,0,0,1,1,1,0,police,prosecution
