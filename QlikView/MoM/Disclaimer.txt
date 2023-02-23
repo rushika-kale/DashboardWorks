@@ -1,0 +1,9 @@
+
+
+
+	*****************************************************************************************************************
+	*														*
+	*	The Dataset used for this dashboards are basically from Tableau's MakeOver Monday Activity.		*
+	*  You can fetch the original datasets from data.world. The dashboards made are only for Practice purpose.	*
+	*														*
+	*****************************************************************************************************************
